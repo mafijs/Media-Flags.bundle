@@ -397,6 +397,7 @@
 		<match name="rickety_shack_films" expression="rickety shack" />
 		<match name="rick_mill" expression="rick mill" />
 		<match name="river_road_entertainment" expression="river road" />
+		<match name="rigas_kinostudija" expression="rigas kinostudija" />
 		<match name="rko_radio_pictures" expression="rko radio pictures" />
 		<match name="roadside_attractions" expression="roadside attractions" />
 		<match name="rogue_pictures" expression="rogue pictures" />
